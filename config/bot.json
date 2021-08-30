@@ -1,1 +1,6 @@
-
+{
+    "game": "My prefix is #",
+    "channel": "",
+    "prefix": "#",
+    "token_bot": "" 
+}
